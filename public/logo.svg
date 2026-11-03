@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Sticky Note Background -->
+  <path d="M12 6H52C54.2091 6 56 7.79086 56 10V44L44 56H12C9.79086 56 8 54.2091 8 52V10C8 7.79086 9.79086 6 12 6Z" fill="#FDE68A"/>
+  
+  <!-- Folded Corner -->
+  <path d="M44 44H56L44 56V44Z" fill="#F59E0B" opacity="0.85"/>
+  
+  <!-- Pushpin / Header Accent -->
+  <circle cx="32" cy="11" r="2.5" fill="#DC2626"/>
+
+  <!-- Minimal Brain Motif -->
+  <!-- Left Lobe -->
+  <path d="M30 20C26.5 19.5 22 22 21 26C19.5 28 19.5 31.5 21.5 33.5C20 36 21 39.5 23.5 41C26 42.5 28.5 41.5 30 40.5" stroke="#292524" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Left Inner Folds -->
+  <path d="M25 28C27 28.5 28.5 27 29 25" stroke="#EA580C" stroke-width="2" stroke-linecap="round"/>
+  <path d="M24 35C26.5 34.5 28 36.5 29.5 35" stroke="#EA580C" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Right Lobe -->
+  <path d="M34 20C37.5 19.5 42 22 43 26C44.5 28 44.5 31.5 42.5 33.5C44 36 43 39.5 40.5 41C38 42.5 35.5 41.5 34 40.5" stroke="#292524" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Right Inner Folds -->
+  <path d="M39 28C37 28.5 35.5 27 35 25" stroke="#EA580C" stroke-width="2" stroke-linecap="round"/>
+  <path d="M40 35C37.5 34.5 36 36.5 34.5 35" stroke="#EA580C" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Center Brain Divider -->
+  <path d="M32 21V41" stroke="#292524" stroke-width="2" stroke-linecap="round"/>
+</svg>
+
