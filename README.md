@@ -18,7 +18,7 @@ StickyBrain is a full-stack web application designed for pinning ideas, thoughts
 
 ## 🚀 Getting Started
 
-### 1. Install Dependencies
+### 1. Install Dependencies................
 ```bash
 npm install
 ```
